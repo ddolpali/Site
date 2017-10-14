@@ -1,5 +1,7 @@
+// TODO: Pull items from database so that admins may display items via AdminCP.
+
 var shopNewThree = [
-{	
+{
 	thumb: "http://nxcache.nexon.net/maplestory/img/shop/item-gallery/item/new_01.png",
 	items: [
 		["Hyper Teleport Rock(Perm)", "29,900 NX"]
@@ -15,7 +17,7 @@ var shopNewThree = [
 	thumb: "http://nxcache.nexon.net/maplestory/img/shop/item-gallery/item/new_03.png",
 	items: [
 		["Jr. Reaper", "10,700 NX"]
-		
+
 	]
 }
 ];
