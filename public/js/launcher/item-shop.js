@@ -1,3 +1,5 @@
+// TODO: Pull items from database so that admins may display items via AdminCP.
+
 var shopNewThree = [
 {
 	thumb: "http://nxcache.nexon.net/maplestory/img/shop/item-gallery/item/new_01.png",
