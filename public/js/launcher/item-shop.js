@@ -4,7 +4,7 @@ var shopNewThree = [
 {
 	thumb: "http://nxcache.nexon.net/maplestory/img/shop/item-gallery/item/new_01.png",
 	items: [
-		["Hyper Teleport Rock(Perm)", "29,900 NX"]
+		["Hyper Teleport Rock(Perm)", "12,696 NX"]
 	]
 },
 {
